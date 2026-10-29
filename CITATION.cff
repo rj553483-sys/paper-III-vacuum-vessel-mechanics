@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+authors:
+  - family-names: "Rasmussen"
+    given-names: "Jacob James"
+title: "Evaluating Vacuum Vessel Structural Reserves Under Asymmetric Halo Currents Using 3D Anisotropic Tsai-Wu Failure Envelopes"
+version: "2.0.0"
+date-released: 2026-10-28
+journal: "Fusion Engineering and Design"

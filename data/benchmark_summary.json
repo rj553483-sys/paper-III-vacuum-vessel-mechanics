@@ -1,0 +1,19 @@
+{
+  "paper_title": "Evaluating Vacuum Vessel Structural Reserves Under Asymmetric Halo Currents Using 3D Anisotropic Tsai-Wu Failure Envelopes",
+  "target_journal": "Fusion Engineering and Design",
+  "publishing_model": "Traditional Subscription (No Fee)",
+  "author": "Jacob James Rasmussen",
+  "material": "Inconel 718 Shear Key Pins",
+  "stress_state_nominal_MPa": {
+    "sigma_1": -158.5,
+    "sigma_2": -110.0,
+    "tau_13": 180.0
+  },
+  "dynamic_amplification_factor_DAF": 1.85,
+  "failure_index_f_TW": 0.244,
+  "strength_reserve_ratio_SRR": 1.61,
+  "energy_mass_positivity_T00": "PASSED (T00 >= 0)",
+  "grid_convergence_index_GCI12": "0.42%",
+  "halo_current_peak_MA": 1.8,
+  "halo_current_frequency_range_Hz": "50-200"
+}
